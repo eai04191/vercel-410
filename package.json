@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "vercel": "^19.2.0"
+  },
+  "name": "vercel-410",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Irie Aoi <eai@mizle.net>",
+  "license": "MIT"
+}
